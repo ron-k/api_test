@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "config": {
+  "content_url" : "https://qa.thestartmagazine.com/feed/summary?publisherId=Magazine_from_Start&key=A624w95y3wC03ehMfdSPII8q5MNH7V9g&userId=666666&ct_client_type=minusone&ct_client_version=1.0&countryCode=US&language=en",
+  "content_title" : "upday",
+  "content_enabled" : true, 
+  "content_inactivity_timeout" : 30000, 
+  "configuration_refresh_interval" : 30000, 
+  "reports_interval" : 30000,
+  "userId" : "Some ID"
+  }, 
+  "report": {
+        
+  },
   "profile": {
-    "name": "typicode"
+      "name": "typicode"
   }
 }
