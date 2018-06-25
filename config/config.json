@@ -1,6 +1,6 @@
 {
 	"content_url" : "https://qa.thestartmagazine.com/feed/summary?publisherId=Magazine_from_Start&key=A624w95y3wC03ehMfdSPII8q5MNH7V9g&userId=666666&ct_client_type=minusone&ct_client_version=1.0&countryCode=US&language=en",
-	"content_title" : "upday",
+	"content_title" : "Magazine",
 	"content_enabled" : true, 
 	"content_inactivity_timeout" : 30000, 
 	"configuration_refresh_interval" : 30000, 
