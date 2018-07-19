@@ -1,17 +1,48 @@
 {
-  "config": {
-  "content_url" : "https://qa.thestartmagazine.com/feed/summary?publisherId=Magazine_from_Start&key=A624w95y3wC03ehMfdSPII8q5MNH7V9g&userId=666666&ct_client_type=minusone&ct_client_version=1.0&countryCode=US&language=en",
-  "content_title" : "Magazine",
-  "content_enabled" : true, 
-  "content_inactivity_timeout" : 30000, 
-  "configuration_refresh_interval" : 30000, 
-  "reports_interval" : 30000,
-  "userId" : "Some ID"
-  }, 
-  "report": {
-        
-  },
-  "profile": {
-      "name": "typicode"
-  }
+	"base": {
+		"config": {
+			"content_url": "https://qa.thestartmagazine.com/feed/summary?publisherId=Magazine_from_Start&key=A624w95y3wC03ehMfdSPII8q5MNH7V9g&userId=666666&ct_client_type=minusone&ct_client_version=1.0&countryCode=US&language=en",
+			"content_title": "Magazine",
+			"content_enabled": true,
+			"content_inactivity_timeout": 30000,
+			"configuration_refresh_interval": 30000,
+			"reports_interval": 30000,
+			"userId": "Some ID"
+		},
+		"report": {},
+		"profile": {
+			"name": "typicode"
+		}
+	},
+	"mx": {
+		"config": {
+			"content_url": "https://www.thestartmagazine.com/feed/summary?publisherId=Magazine_from_Starter&key=XE4n3Zt72XKP1ciSw1gZC77t9Gf0bkOp&language=es&countryCode=MX",
+			"content_title": "Magazine",
+			"content_enabled": true,
+			"content_inactivity_timeout": 30000,
+			"configuration_refresh_interval": 30000,
+			"reports_interval": 30000,
+			"userId": "Some ID"
+		},
+		"report": {},
+		"profile": {
+			"name": "typicode"
+		}
+	},
+	"pl": {
+		"config": {
+			"content_url": "https://www.thestartmagazine.com/feed/summary?publisherId=Magazine_from_Starter&key=XE4n3Zt72XKP1ciSw1gZC77t9Gf0bkOp&language=pl&countryCode=PL",
+			"content_title": "Magazine",
+			"content_enabled": true,
+			"content_inactivity_timeout": 30000,
+			"configuration_refresh_interval": 30000,
+			"reports_interval": 30000,
+			"userId": "Some ID"
+		},
+		"report": {},
+		"profile": {
+			"name": "typicode"
+		}
+	}
+
 }
